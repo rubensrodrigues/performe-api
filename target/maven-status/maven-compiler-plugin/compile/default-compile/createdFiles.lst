@@ -1,0 +1,13 @@
+br\com\nuclea\performeapi\service\UserService.class
+br\com\nuclea\performeapi\PerformeApiApplication.class
+br\com\nuclea\performeapi\security\UserPrincipal.class
+br\com\nuclea\performeapi\entity\dto\LoginDTO.class
+br\com\nuclea\performeapi\security\CustomUserDetailsService.class
+br\com\nuclea\performeapi\security\FilterToken.class
+br\com\nuclea\performeapi\entity\User.class
+br\com\nuclea\performeapi\security\WebSecurityConfig.class
+br\com\nuclea\performeapi\service\TokenService.class
+br\com\nuclea\performeapi\controller\AuthController.class
+br\com\nuclea\performeapi\repository\UserRepository.class
+br\com\nuclea\performeapi\entity\Situation.class
+br\com\nuclea\performeapi\entity\Role.class
